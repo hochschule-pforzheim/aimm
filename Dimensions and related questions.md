@@ -1,4 +1,5 @@
 | 1. Strategy | |
+|----------------------|-----------------------------------------------------------------------------------------------------------|
 | 1.1. | Is there a company-wide vision for the use of AI? |
 | 1.2. | Do you have a data strategy that fosters AI? |
 | 1.3. | Are the AI goals defined and communicated in a way that is understandable to the workforce? |
